@@ -42,35 +42,27 @@ default.payment.next.month – Whether the borrower defaulted next month
 
 Raw Dataset
      │
-     ▼
 Data Cleaning
 (Remove duplicates, rename variables)
      │
-     ▼
 Exploratory Data Analysis
 (Portfolio statistics and borrower behaviour)
      │
-     ▼
 Feature Engineering
 (Create behavioural risk indicators)
      │
-     ▼
 Risk Segmentation Analysis
 (Identify high-risk borrower groups)
      │
-     ▼
 Machine Learning Model
 (Logistic Regression to predict PD)
      │
-     ▼
 Probability of Default (PD)
 (Model predictions)
      │
-     ▼
 Expected Credit Loss Calculation
 (ECL = PD × LGD × EAD)
      │
-     ▼
 Portfolio Risk Insights & Visualisations
 
 
