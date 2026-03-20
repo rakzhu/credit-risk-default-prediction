@@ -6,10 +6,10 @@ Credit risk modelling project predicting borrower default probability and Expect
 # Overview
 This project performs credit risk analysis on a credit card loan portfolio to identify high-risk borrowers and estimate potential financial losses.
 The analysis simulates the work performed by credit risk analysts in financial institutions, including:
- ` Portfolio risk analysis
- ` Identification of high-risk borrower behaviour
- ` Prediction of Probability of Default (PD) using machine learning
- ` Estimation of Expected Credit Loss (ECL) using the standard risk framework
+` Portfolio risk analysis
+` Identification of high-risk borrower behaviour
+` Prediction of Probability of Default (PD) using machine learning
+` Estimation of Expected Credit Loss (ECL) using the standard risk framework
 The project combines data analysis, feature engineering, predictive modelling, and financial risk metrics to understand the drivers of credit default.
 
 # Dataset
@@ -39,7 +39,6 @@ default.payment.next.month – Whether the borrower defaulted next month
 # Project Workflow / Data Flow
 
 # The project follows a structured credit risk analytics pipeline:
-
 Raw Dataset
      │
 Data Cleaning
@@ -69,14 +68,14 @@ Portfolio Risk Insights & Visualisations
 # 1. Data Cleaning
 
 Initial preprocessing included:
- ` Removing the ID column
- ` Renaming the target variable to default
- ` Checking and removing duplicate rows
- ` Verifying missing values
+` Removing the ID column
+` Renaming the target variable to default
+` Checking and removing duplicate rows
+` Verifying missing values
 
 # Final dataset size
-  29,965 borrowers
-  24 variables
+29,965 borrowers
+24 variables
 
 # 2. Feature Engineering
 
