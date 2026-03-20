@@ -50,17 +50,17 @@ default.payment.next.month – Whether the borrower defaulted next month
 # The project follows a structured credit risk analytics pipeline:
 Raw Dataset
 
-    │
+    
     
 Data Cleaning
 (Remove duplicates, rename variables)
 
-     │
+     ▼
      
 Exploratory Data Analysis
 (Portfolio statistics and borrower behaviour)
 
-     │
+     ▼
      
 Feature Engineering
 (Create behavioural risk indicators)
